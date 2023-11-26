@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umraz-Hussain-MyWorld
+- 👋 Hi, I’m @Umraz-Hussain
 - 👀 I’m interested in IT Technology
 - 🌱 I’m currently learning Big Data Hadoop, AI/ML, Software Engineer/Developer, IoT etc..
 - 💞️ I’m looking to collaborate on ...
